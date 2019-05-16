@@ -7,7 +7,7 @@
   <version>1.0</version>
   <packaging>war</packaging>
 
-  <name>JSF - PrimeFaces Jetty Hello World Example</name>
+  <name>PrimerAppWeb</name>
   <url>https://www.codenotfound.com/jsf-primefaces-jetty-hello-world-example.html</url>
 
   <properties>
